@@ -48,6 +48,7 @@ class _GirisEkraniDurum extends State<GirisEkrani> {
                   textAlign: TextAlign.center,
                   onChanged: (value) {
                     widget.email = value;
+                    
                   },
                   decoration: kTextFieldDecoration.copyWith(
                       hintText: 'E-mailinizi giriniz')),
