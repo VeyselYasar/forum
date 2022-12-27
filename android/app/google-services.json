@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141327133664",
+    "project_id": "talk-chat-10611",
+    "storage_bucket": "talk-chat-10611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141327133664:android:9b63f0b683506c85db5985",
+        "android_client_info": {
+          "package_name": "com.EnesOzdemir195.forum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141327133664-4omov31a5j93tch81dj16jmh18bg07tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkdemj-m2NRg3LgqwEaQxUpS_WXhGVWOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141327133664-4omov31a5j93tch81dj16jmh18bg07tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
